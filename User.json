@@ -1,0 +1,30 @@
+[
+  {
+    "id": "f0486e57dd040e0a",
+    "username": "User123",
+    "password": "Pass123",
+    "expiresAt": "2035-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "d9a43190cf3b98f9",
+    "username": "User123",
+    "password": "Pass123",
+    "expiresAt": "2035-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "4205f9a92366ccaf",
+    "username": "User123",
+    "password": "Pass123",
+    "expiresAt": "2035-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2035-11-30",
+    "allowOffline": false
+  }
+]
