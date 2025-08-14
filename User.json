@@ -56,11 +56,11 @@
     "allowOffline": true
   },
 {
-    "id": "xxxxxxx",
+    "id": "1e266be2d408ece4",
     "username": "User123",
     "password": "Pass123",
-    "expiresAt": "2035-12-31",
-    "allowOffline": true
+    "expiresAt": "2035-08-16",
+    "allowOffline": false
   },
   {
     "id": "xxxxxxxxx",
